@@ -6,6 +6,7 @@ public class DemoApp {
 		
 		// Demonstration on GitHub - Push / Fetch
 		System.out.println("Welcome to the World of Git");
+		System.out.println("Testing for second commit");
 		
 		
 	}
